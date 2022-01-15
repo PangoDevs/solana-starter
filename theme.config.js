@@ -1,12 +1,12 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/PangoDevs',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: '',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Pango</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        The Solana and web3js starter guide
       </span>
     </>
   ),
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerEditLink: '',
+  footerText: <>Pango</>,
   unstable_faviconGlyph: '👋',
 }
