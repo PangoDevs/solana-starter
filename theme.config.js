@@ -18,11 +18,11 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta
         name="description"
-        content="Pango: project to learn more about Solana"
+        content="Project to learn more about Solana"
       />
       <meta
         name="og:description"
-        content="Pango: project to learn more about Solana"
+        content="Project to learn more about Solana"
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta
@@ -31,7 +31,7 @@ export default {
       />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="Pango" />
       <meta
         name="og:image"
         content="https://raw.githubusercontent.com/PangoDevs/solana-starter/main/public/og.png?token=GHSAT0AAAAAABQC57VQ2L5KSH5PYD3DDCL6YPDIBAA"
