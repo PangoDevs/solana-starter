@@ -1,0 +1,11 @@
+.container {
+  padding: 0 2rem;
+  background-color: rgba(245, 222, 179, 0.521);
+}
+
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
